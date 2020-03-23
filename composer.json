@@ -1,5 +1,5 @@
 {
-    "name": "fbxcelsior/OhGoogleMapFormTypeBundle",
+    "name": "fbxcelsior/ohgooglemapformtypebundle",
     "type": "symfony-bundle",
     "description": "Set latitude, longitude and address values on a form using Google Maps",
     "keywords": ["google maps", "symfony", "form"],
